@@ -8,3 +8,9 @@ gulp.task('styles', () => {
       .pipe(gulp.dest('./css'));
 });
 
+//compile sass files whenever there is change in scss file
+gulp.task('watch', () => {
+     gulp.watch('./sass/**/*.scss', ['styles'])
+});
+
+gulp.task('default', ['styles']);
