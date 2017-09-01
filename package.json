@@ -1,0 +1,23 @@
+{
+  "name": "sass-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankaja-shree/sass-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankaja-shree/sass-starter/issues"
+  },
+  "homepage": "https://github.com/pankaja-shree/sass-starter#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
