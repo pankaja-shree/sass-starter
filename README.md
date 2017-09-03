@@ -6,7 +6,7 @@
 
 ## Developer details
 
-* Use lite-server for browser sunc:
+* Use lite-server for browser sync:
 `npm install --save-dev lite-server`
 
 * Make changes in `package.json` to enable lite-server:
